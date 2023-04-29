@@ -1,2 +1,6 @@
-# dio-netdeveloper
-Curso de .NET da DIO.
+# .NET Developer
+
+Neste repositório estarei colocanco os projetos realizados durante o curso de .NET da DIO.
+
+*Projeto da Trilha Fundamentos .NET*
+Projeto clonado [deste](https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio) repositório da DIO.
