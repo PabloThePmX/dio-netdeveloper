@@ -9,4 +9,8 @@ Neste repositório estarei colocanco os projetos realizados durante o curso de .
 
 ### *Projeto da Trilha Explorando a Linguagem C#*
 
-* Projeto clonado [deste](https://github.com/digitalinnovationone/trilha-net-explorando-desafio) repositório da DIO
+* Projeto clonado [deste](https://github.com/digitalinnovationone/trilha-net-explorando-desafio) repositório da DIO.
+
+### *Projeto da Trilha Programação Orientada a Objetos com C#*
+
+* Projeto clonado [deste](https://github.com/digitalinnovationone/trilha-net-poo-desafio) repositório da DIO.
