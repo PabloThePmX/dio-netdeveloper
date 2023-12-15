@@ -18,3 +18,7 @@ Neste repositório estarei colocanco os projetos realizados durante o curso de .
 ### *Projeto da Trilha Bancos de Dados Relacionais e Não Relacionais com SQL Server e MongoDB*
 
 * Projeto clonado [deste](https://github.com/digitalinnovationone/trilha-net-banco-de-dados-desafio) repositório da DIO.
+
+### *Projeto da Trilha Integrando APIs NET C# com Entity Framework*
+
+* Projeto clonado [deste](https://github.com/digitalinnovationone/trilha-net-api-desafio) repositório da DIO.
