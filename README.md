@@ -1,6 +1,6 @@
 # .NET Developer
 
-Neste repositório estarei colocanco os projetos realizados durante o curso de .NET da DIO.
+Neste repositório estarei colocando os projetos realizados durante o curso de .NET da DIO.
 
 &nbsp;
 ### *Projeto da Trilha Fundamentos .NET*
@@ -22,3 +22,7 @@ Neste repositório estarei colocanco os projetos realizados durante o curso de .
 ### *Projeto da Trilha Integrando APIs NET C# com Entity Framework*
 
 * Projeto clonado [deste](https://github.com/digitalinnovationone/trilha-net-api-desafio) repositório da DIO.
+
+### *Projeto da Trilha Nuvem com Microsoft Azure*
+
+* Projeto clonado [deste](https://github.com/digitalinnovationone/trilha-net-azure-desafio) repositório da DIO.
