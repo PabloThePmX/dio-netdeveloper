@@ -26,3 +26,7 @@ Neste repositório estarei colocando os projetos realizados durante o curso de .
 ### *Projeto da Trilha Nuvem com Microsoft Azure*
 
 * Projeto clonado [deste](https://github.com/digitalinnovationone/trilha-net-azure-desafio) repositório da DIO.
+
+### *Projeto da Trilha Testes Unitários com C#*
+
+* Projeto clonado [deste](https://github.com/digitalinnovationone/trilha-net-testes-unitarios-desafio) repositório da DIO.
